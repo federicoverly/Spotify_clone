@@ -1,6 +1,6 @@
 # Spotify Clone using React JS
 
-The project uses React JS, Spotify API, React Context API, CSS, Material UI.
+The project uses React JS, Spotify API, React Context API, CSS, Material UI. Check it live [here](https://spotify-clone-two-self.vercel.app/)
 
 ## Running the app
 
